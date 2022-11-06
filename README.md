@@ -50,7 +50,7 @@ We can use the one sample t-test to assert our data as long as most of these ass
 With the assumtion that our significane level was 0.05 percent we can use or p-value to determine the signifigance level. 
 
 When it comes to the total for that compares all manufacturing lots against the mean PSI we can see it is a signifigant p-value and accept the Null Hypothesis. 
-We can also accept the null Hyopthesis for Lot 3 aas it p-value was signifigant. 
+We can also accept the null Hyopthesis for Lot 3 as it p-value was signifigant. Where we would have to reject the null, and accept the alternative is with Lot 1 and Lot 2. In this case the Null was that the the mean is equal to the mean of the total population mean PSI of 1498.78. The Alternative Hypothesis is that the true mean is not equal to 1498.78. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
