@@ -55,8 +55,14 @@ We can also accept the null Hyopthesis for Lot 3 as it p-value was signifigant. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Study Design: MechaCar vs Competition
-
+We are going to see how MechaCar vehicles perform compared to other vehicles when it comes to their highway miles per gallon efficiency.
 ### What metric or metrics are you going to test?
+To test how MechaCar compares to the competition we are going to be looking at the MPG values of the vehicles that MechaCar produces as well as MPG data fromn the auto industry and their competition. 
 ### What is the null hypothesis or alternative hypothesis?
+In order to find out if there is a diffrence we would need to gather the data and test it against a Null hypothesis as well as provide an alternative hypothesis. 
+The Null Hypothesis would be: MechaCars have a satistically signifigant diffrence in the fuel efficiency then the mean of other manufacurers fuel efficiency.
+The Alternative Hypothesis would be: MechaCars do not have any more fuel efficiency than the mean of other manufacturers fuel efficiency.
 ### What statistical test would you use to test the hypothesis? And why?
+In order to test this, I would gather MPG data on MechaCars and all other manufacturers. Once we have a large enough data set, we will test the mean MPG of each class of Mecha Cars to the Mean of the total MPG of all cars. This would be a one sample T-test that would tell us if there is a statistical diffrence between the mean of the sample distribution and the mean of the populatiuon distribution. We could also test using a 2 sample T-test and compare MechaCars to one other manufacturer to see how they do against the competition. 
 ### What data is needed to run the statistical test?
+We would need MPG data from the auto industry so we can gather a Mean MPG of the population of vehicles. We would also need which manufactuer it came from so we would have sample Means to test against our MechaCar MPG. 
