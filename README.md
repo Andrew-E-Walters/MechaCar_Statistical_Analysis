@@ -35,7 +35,7 @@ When we look at the total summary of the data related to PSI we see that the var
 ### An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population
 ![Lot T tests](https://github.com/Andrew-E-Walters/MechaCar_Statistical_Analysis/blob/main/t%20test%20all%20lots.png)
 ### An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population
-![Lot T tests](https://github.com/Andrew-E-Walters/MechaCar_Statistical_Analysis/blob/main/t%20test%201%20-%203.png)
+![Lot T tests](https://github.com/Andrew-E-Walters/MechaCar_Statistical_Analysis/blob/main/FOR%20RESUBMIT%20%20UPDATED%20T%20TEST.png)
 
 ### Summary of the t-test results across all manufacturing lots and for each lot
 We have run a T-Test on not only all of the lots against the mean PSI of the population but each lot itself against the population. The one-sample t-test is used to determine whether there is a statistical difference between the means of a sample dataset and a hypothesized, potential population dataset. The Null Hypothesis is that there is no statistical difference between the observed sample mean and its presumed population mean. The Alternative Hypothesis is there is a statistical difference between the observed sample mean and its presumed population mean.
